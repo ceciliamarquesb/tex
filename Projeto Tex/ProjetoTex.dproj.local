@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/13 08:51:09.000.062,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/13 08:59:57.000.745,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 08:20:27.000.872,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/27 09:47:32.000.505,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/27 11:46:23.000.541,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/27 14:21:58.000.839,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/27 15:43:25.000.964,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/26 10:47:25.000.032,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/17 16:46:06.000.152,=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/17 16:47:21.000.145,C:\Teste\Novo Projeto\frmPrincipal.pas=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/17 16:47:21.000.145,C:\Teste\Novo Projeto\frmPrincipal.dfm=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/11/17 16:47:30.000.657,C:\Teste\Novo Projeto\ProjetoTex.dproj=C:\Users\Desenvolvimento\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/11/17 16:47:49.000.176,=C:\Teste\Novo Projeto\Unit2.pas</Transaction>
+    <Transaction>2023/11/17 16:48:01.000.529,C:\Teste\Novo Projeto\frmLogin.dfm=C:\Teste\Novo Projeto\Unit2.dfm</Transaction>
+    <Transaction>2023/11/17 16:48:01.000.529,C:\Teste\Novo Projeto\frmLogin.pas=C:\Teste\Novo Projeto\Unit2.pas</Transaction>
+    <Transaction>2023/11/17 16:49:10.000.000,C:\Teste\Novo Projeto\frmPrincipal.pas=</Transaction>
+    <Transaction>2023/11/17 16:49:24.000.693,=C:\Teste\Novo Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/11/17 16:49:33.000.344,C:\Teste\Novo Projeto\Unit1.dfm=C:\Teste\Novo Projeto\ufrmLogin.dfm</Transaction>
+    <Transaction>2023/11/17 16:49:33.000.344,C:\Teste\Novo Projeto\Unit1.pas=C:\Teste\Novo Projeto\ufrmLogin.pas</Transaction>
+    <Transaction>2023/11/17 16:49:43.000.180,=C:\Teste\Novo Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/11/17 16:49:59.000.884,C:\Teste\Novo Projeto\Unit1.dfm=C:\Teste\Novo Projeto\ufrmPrincipal.dfm</Transaction>
+    <Transaction>2023/11/17 16:49:59.000.884,C:\Teste\Novo Projeto\Unit1.pas=C:\Teste\Novo Projeto\ufrmPrincipal.pas</Transaction>
+    <Transaction>2023/11/17 17:08:24.000.110,=C:\Teste\Novo Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/11/17 17:08:44.000.011,C:\Teste\Novo Projeto\udmProjeto.dfm=C:\Teste\Novo Projeto\Unit1.dfm</Transaction>
+    <Transaction>2023/11/17 17:08:44.000.011,C:\Teste\Novo Projeto\udmProjeto.pas=C:\Teste\Novo Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 06:55:09.000.438,=C:\Teste\Novo Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 06:56:01.000.383,C:\Teste\Novo Projeto\Unit1.pas=C:\Teste\Novo Projeto\uControllers.pas</Transaction>
+    <Transaction>2023/11/18 06:57:18.000.655,=C:\Teste\Novo Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/11/18 06:57:28.000.062,C:\Teste\Novo Projeto\Unit1.pas=C:\Teste\Novo Projeto\uModels.pas</Transaction>
+    <Transaction>2023/11/21 08:33:30.000.479,=C:\Teste\Novo Projeto\Unit1.pas</Transaction>
+    <Transaction>2023/11/21 08:33:39.000.451,C:\Teste\Novo Projeto\Unit1.pas=C:\Teste\Novo Projeto\uAPI.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="Nexus_5X_API_29_x86" Android64="Nexus_5X_API_29_x86"/>
+	</ActiveMobileDevice>
+</BorlandProject>
